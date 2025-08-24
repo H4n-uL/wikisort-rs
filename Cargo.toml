@@ -1,0 +1,7 @@
+[package]
+name = "wikisort"
+version = "1.0.0"
+edition = "2024"
+description = "Wikisort ported to Rust"
+repository = "https://github.com/H4n-uL/wikisort-rs"
+license-file = "LICENCE"
